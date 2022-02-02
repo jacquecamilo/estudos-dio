@@ -4,8 +4,8 @@
 git clone https://...
 
 ## Local -> Remoto
-git add *
-git commit -m "..."
+git add *    /n
+git commit -m "..."     /n
 git push origin main
 
 
