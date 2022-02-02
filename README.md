@@ -4,9 +4,9 @@
 git clone https://...
 
 ## Local -> Remoto
-git add *    /n
-git commit -m "..."     /n
-git push origin main
+git add *     
+git commit -m "..."         
+git push origin main      
 
 
 - Para verificar se há algo pendente em qualquer momento:
