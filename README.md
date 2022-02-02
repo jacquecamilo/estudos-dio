@@ -9,5 +9,5 @@ git commit -m "..."
 git push origin main      
 
 
-- Para verificar se há algo pendente em qualquer momento:
+- Para verificar se há algo pendente em qualquer momento:     
        git status
